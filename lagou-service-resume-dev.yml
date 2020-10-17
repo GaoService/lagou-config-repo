@@ -1,0 +1,4 @@
+mysql:
+  url: dev-http://localhost:8090/db100
+lagou:
+  message: 200
