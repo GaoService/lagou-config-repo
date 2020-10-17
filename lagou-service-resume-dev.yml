@@ -1,4 +1,4 @@
 mysql:
   url: dev-http://localhost:8090/db200
 lagou:
-  message: 300
+  message: 500
